@@ -1,5 +1,4 @@
-# liri-node-app.io
-
+# LIRI Node App
 This application is a language interpretation and recognition interface (LIRI). LIRI is a command line node.js app that takes in parameters and gives you back data.
 
 ## What Information You Can Get
@@ -30,7 +29,6 @@ Search Query | Parameter Syntax
 Song Search | node liri.js spotify-this
 Concert Search | node liri.js concert-this
 Movie Search | node liri.js movie-this
-Surprise Search |  node liri.js do-what-it-says
 
 ## Examples Of App In Action
 ### Song Search
@@ -43,7 +41,3 @@ Surprise Search |  node liri.js do-what-it-says
 
 ### Movie Search
 ![Movie Search](/movie-this.png)
-
-
-### Surprise Search
-![Surprise Search](/do-what-it-says.png)
